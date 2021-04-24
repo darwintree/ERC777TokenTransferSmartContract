@@ -1,0 +1,4 @@
+.DS_Store
+deploys/
+build/
+node_modules/
